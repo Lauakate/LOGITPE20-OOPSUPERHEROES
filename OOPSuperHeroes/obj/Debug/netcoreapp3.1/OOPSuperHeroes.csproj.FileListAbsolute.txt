@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\OOPSuperHeroes\OOPSuperHeroes\bin\Debug\netcoreapp3.1\OOPSuperHeroes.exe
+C:\Users\opilane\source\repos\OOPSuperHeroes\OOPSuperHeroes\bin\Debug\netcoreapp3.1\OOPSuperHeroes.deps.json
+C:\Users\opilane\source\repos\OOPSuperHeroes\OOPSuperHeroes\bin\Debug\netcoreapp3.1\OOPSuperHeroes.runtimeconfig.json
+C:\Users\opilane\source\repos\OOPSuperHeroes\OOPSuperHeroes\bin\Debug\netcoreapp3.1\OOPSuperHeroes.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\OOPSuperHeroes\OOPSuperHeroes\bin\Debug\netcoreapp3.1\OOPSuperHeroes.dll
+C:\Users\opilane\source\repos\OOPSuperHeroes\OOPSuperHeroes\bin\Debug\netcoreapp3.1\OOPSuperHeroes.pdb
+C:\Users\opilane\source\repos\OOPSuperHeroes\OOPSuperHeroes\obj\Debug\netcoreapp3.1\OOPSuperHeroes.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\OOPSuperHeroes\OOPSuperHeroes\obj\Debug\netcoreapp3.1\OOPSuperHeroes.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\OOPSuperHeroes\OOPSuperHeroes\obj\Debug\netcoreapp3.1\OOPSuperHeroes.AssemblyInfo.cs
+C:\Users\opilane\source\repos\OOPSuperHeroes\OOPSuperHeroes\obj\Debug\netcoreapp3.1\OOPSuperHeroes.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\OOPSuperHeroes\OOPSuperHeroes\obj\Debug\netcoreapp3.1\OOPSuperHeroes.dll
+C:\Users\opilane\source\repos\OOPSuperHeroes\OOPSuperHeroes\obj\Debug\netcoreapp3.1\OOPSuperHeroes.pdb
+C:\Users\opilane\source\repos\OOPSuperHeroes\OOPSuperHeroes\obj\Debug\netcoreapp3.1\OOPSuperHeroes.genruntimeconfig.cache
